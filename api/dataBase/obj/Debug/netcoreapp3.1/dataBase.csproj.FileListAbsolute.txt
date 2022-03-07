@@ -1,0 +1,16 @@
+E:\16.1. rs1 sem\klon\web_app\api\dataBase\bin\Debug\netcoreapp3.1\dataBase.deps.json
+E:\16.1. rs1 sem\klon\web_app\api\dataBase\bin\Debug\netcoreapp3.1\dataBase.runtimeconfig.json
+E:\16.1. rs1 sem\klon\web_app\api\dataBase\bin\Debug\netcoreapp3.1\dataBase.runtimeconfig.dev.json
+E:\16.1. rs1 sem\klon\web_app\api\dataBase\bin\Debug\netcoreapp3.1\dataBase.dll
+E:\16.1. rs1 sem\klon\web_app\api\dataBase\bin\Debug\netcoreapp3.1\dataBase.pdb
+E:\16.1. rs1 sem\klon\web_app\api\dataBase\bin\Debug\netcoreapp3.1\Modeli.dll
+E:\16.1. rs1 sem\klon\web_app\api\dataBase\bin\Debug\netcoreapp3.1\Modeli.pdb
+E:\16.1. rs1 sem\klon\web_app\api\dataBase\obj\Debug\netcoreapp3.1\dataBase.csproj.AssemblyReference.cache
+E:\16.1. rs1 sem\klon\web_app\api\dataBase\obj\Debug\netcoreapp3.1\dataBase.GeneratedMSBuildEditorConfig.editorconfig
+E:\16.1. rs1 sem\klon\web_app\api\dataBase\obj\Debug\netcoreapp3.1\dataBase.AssemblyInfoInputs.cache
+E:\16.1. rs1 sem\klon\web_app\api\dataBase\obj\Debug\netcoreapp3.1\dataBase.AssemblyInfo.cs
+E:\16.1. rs1 sem\klon\web_app\api\dataBase\obj\Debug\netcoreapp3.1\dataBase.csproj.CoreCompileInputs.cache
+E:\16.1. rs1 sem\klon\web_app\api\dataBase\obj\Debug\netcoreapp3.1\dataBase.csproj.CopyComplete
+E:\16.1. rs1 sem\klon\web_app\api\dataBase\obj\Debug\netcoreapp3.1\dataBase.dll
+E:\16.1. rs1 sem\klon\web_app\api\dataBase\obj\Debug\netcoreapp3.1\dataBase.pdb
+E:\16.1. rs1 sem\klon\web_app\api\dataBase\obj\Debug\netcoreapp3.1\dataBase.genruntimeconfig.cache

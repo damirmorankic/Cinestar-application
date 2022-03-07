@@ -1,0 +1,10 @@
+E:\16.1. rs1 sem\klon\web_app\api\Modeli\bin\Debug\netcoreapp3.1\Modeli.deps.json
+E:\16.1. rs1 sem\klon\web_app\api\Modeli\bin\Debug\netcoreapp3.1\Modeli.dll
+E:\16.1. rs1 sem\klon\web_app\api\Modeli\bin\Debug\netcoreapp3.1\Modeli.pdb
+E:\16.1. rs1 sem\klon\web_app\api\Modeli\obj\Debug\netcoreapp3.1\Modeli.csproj.AssemblyReference.cache
+E:\16.1. rs1 sem\klon\web_app\api\Modeli\obj\Debug\netcoreapp3.1\Modeli.GeneratedMSBuildEditorConfig.editorconfig
+E:\16.1. rs1 sem\klon\web_app\api\Modeli\obj\Debug\netcoreapp3.1\Modeli.AssemblyInfoInputs.cache
+E:\16.1. rs1 sem\klon\web_app\api\Modeli\obj\Debug\netcoreapp3.1\Modeli.AssemblyInfo.cs
+E:\16.1. rs1 sem\klon\web_app\api\Modeli\obj\Debug\netcoreapp3.1\Modeli.csproj.CoreCompileInputs.cache
+E:\16.1. rs1 sem\klon\web_app\api\Modeli\obj\Debug\netcoreapp3.1\Modeli.dll
+E:\16.1. rs1 sem\klon\web_app\api\Modeli\obj\Debug\netcoreapp3.1\Modeli.pdb

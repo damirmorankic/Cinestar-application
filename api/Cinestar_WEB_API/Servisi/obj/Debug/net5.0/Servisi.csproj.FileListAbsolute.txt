@@ -1,0 +1,17 @@
+E:\16.1. rs1 sem\klon\web_app\api\Cinestar_WEB_API\Servisi\bin\Debug\net5.0\Servisi.deps.json
+E:\16.1. rs1 sem\klon\web_app\api\Cinestar_WEB_API\Servisi\bin\Debug\net5.0\Servisi.dll
+E:\16.1. rs1 sem\klon\web_app\api\Cinestar_WEB_API\Servisi\bin\Debug\net5.0\ref\Servisi.dll
+E:\16.1. rs1 sem\klon\web_app\api\Cinestar_WEB_API\Servisi\bin\Debug\net5.0\Servisi.pdb
+E:\16.1. rs1 sem\klon\web_app\api\Cinestar_WEB_API\Servisi\bin\Debug\net5.0\dataBase.dll
+E:\16.1. rs1 sem\klon\web_app\api\Cinestar_WEB_API\Servisi\bin\Debug\net5.0\Modeli.dll
+E:\16.1. rs1 sem\klon\web_app\api\Cinestar_WEB_API\Servisi\bin\Debug\net5.0\dataBase.pdb
+E:\16.1. rs1 sem\klon\web_app\api\Cinestar_WEB_API\Servisi\bin\Debug\net5.0\Modeli.pdb
+E:\16.1. rs1 sem\klon\web_app\api\Cinestar_WEB_API\Servisi\obj\Debug\net5.0\Servisi.csproj.AssemblyReference.cache
+E:\16.1. rs1 sem\klon\web_app\api\Cinestar_WEB_API\Servisi\obj\Debug\net5.0\Servisi.GeneratedMSBuildEditorConfig.editorconfig
+E:\16.1. rs1 sem\klon\web_app\api\Cinestar_WEB_API\Servisi\obj\Debug\net5.0\Servisi.AssemblyInfoInputs.cache
+E:\16.1. rs1 sem\klon\web_app\api\Cinestar_WEB_API\Servisi\obj\Debug\net5.0\Servisi.AssemblyInfo.cs
+E:\16.1. rs1 sem\klon\web_app\api\Cinestar_WEB_API\Servisi\obj\Debug\net5.0\Servisi.csproj.CoreCompileInputs.cache
+E:\16.1. rs1 sem\klon\web_app\api\Cinestar_WEB_API\Servisi\obj\Debug\net5.0\Servisi.csproj.CopyComplete
+E:\16.1. rs1 sem\klon\web_app\api\Cinestar_WEB_API\Servisi\obj\Debug\net5.0\Servisi.dll
+E:\16.1. rs1 sem\klon\web_app\api\Cinestar_WEB_API\Servisi\obj\Debug\net5.0\ref\Servisi.dll
+E:\16.1. rs1 sem\klon\web_app\api\Cinestar_WEB_API\Servisi\obj\Debug\net5.0\Servisi.pdb
